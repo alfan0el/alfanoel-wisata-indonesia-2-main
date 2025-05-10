@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wisata Indonesia</string>
+    <string name="title_home">Home</string>
+    <string name="title_create">Create</string>
+    <string name="title_profile">Profile</string>
+    <string name="tambah_wisata">Add Tour</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+</resources>
